@@ -1,12 +1,12 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://cdn.hideko-dev.com/1714824714754.png"  width=30% height=30%>
+</div>
+<h4 align="center">Creator Development Team from Japan.</h4>
+<h2></h2>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Links:
+**`` Official Page ``** https://hideko-dev.com/blacklabs
+<br/>
+**`` Kuroneko Network Discord ``** https://link.kuroneko.click/discord
+<br/>
+**``Kuroneko Network X (Twitter)``** https://link.kuroneko.click/x
