@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.hideko-dev.com/1714824714754.png"  width=30% height=30%>
+  <img src="https://media.discordapp.net/attachments/1228280520148914238/1258723694671298672/j6u9U6yR.png?ex=6689154a&is=6687c3ca&hm=2e6ec02f5a120725ef4f1275963f0609bc6c549e8c4ad607d6b1acf27fd65eac&=&format=webp&quality=lossless"  width=30% height=30%>
 </div>
 <h4 align="center">Creator Development Team from Japan.</h4>
 <h2></h2>
