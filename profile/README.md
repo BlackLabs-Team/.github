@@ -5,7 +5,7 @@
 <h2></h2>
 
 ### Links:
-**`` Official Page ``** https://hideko-dev.com/blacklabs
+**`` Official Page ``** https://hideko.rest/blacklabs
 <br/>
 **`` Kuroneko Network Discord ``** https://link.kuroneko.click/discord
 <br/>
